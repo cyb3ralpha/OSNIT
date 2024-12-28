@@ -41,8 +41,8 @@ With a user-friendly command-line interface, this tool can help you gather OSINT
 
 Before installing, ensure you have the following installed:
 
-- **Python 3.x**: The tool is built using Python 3.x. You can download it from [here](https://www.python.org/downloads/).
-- **Git**: Git is required to clone the repository. Download it from [here](https://git-scm.com/downloads).
+- **Python 3.x**: The tool is built using Python 3.x.
+- **Git**: Git is required to clone the repository.
 
 ### 1. Clone the Repository
 
