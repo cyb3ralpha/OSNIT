@@ -1,6 +1,6 @@
-# OSINT Framework
+# OSINT 
 
-Welcome to the **OSINT Framework** — a comprehensive **Open Source Intelligence (OSINT)** tool designed for security professionals, researchers, and enthusiasts to gather valuable intelligence on social media accounts, domains, emails, phone numbers, IP addresses, and websites.
+Welcome to the **OSINT** — a comprehensive **Open Source Intelligence (OSINT)** tool designed for security professionals, researchers, and enthusiasts to gather valuable intelligence on social media accounts, domains, emails, phone numbers, IP addresses, and websites.
 
 With a user-friendly command-line interface, this tool can help you gather OSINT data through multiple modules, including social media reconnaissance, domain lookup, email analysis, IP address tracking, and more.
 
