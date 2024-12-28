@@ -1,0 +1,38 @@
+# Required for making HTTP requests
+requests==2.31.0
+
+# Required for parsing HTML content
+beautifulsoup4==4.12.2
+
+# Required for color-coded terminal output
+rich==13.4.0
+
+# Required for JSON handling (built into Python but included for completeness)
+json5==0.9.14
+
+# Required for WHOIS queries
+python-whois==0.8.0
+
+# Required for email validation and formatting
+validate-email-address==1.0.5
+
+# Required for IP-related information
+ipinfo==4.2.0
+
+# Required for phone number validation and details
+phonenumbers==8.13.22
+
+# Required for domain information
+dnspython==2.4.2
+
+# Required for environment variable management (e.g., API keys)
+python-dotenv==1.0.0
+
+# Optional: Add support for API handling and rate-limiting
+ratelimit==3.1.0
+
+# Optional: Add support for asynchronous requests
+httpx==0.24.1
+
+# Optional: Add support for handling CSV, Excel, or other tabular data
+pandas==2.1.1
