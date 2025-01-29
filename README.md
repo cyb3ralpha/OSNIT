@@ -110,8 +110,6 @@ You can use the Web Crawler to scrape a website’s title and links.
 Enter the website URL (e.g., https://example.com): https://example.com
 ```
 
-This will print the title of the page and all links found on the page.
-
 ### Contributing
 We welcome contributions to improve this tool. If you'd like to contribute, Feel free to submit issues or pull requests to improve the tool.
 
